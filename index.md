@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## DIVERSINECT - 🏳️‍🌈 A diversidade conecta 🏳️‍🌈
 
-You can use the [editor on GitHub](https://github.com/Kur1sutaru/diversinect/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+✔️Sabemos que pessoas inseridas em grupos sub-representados (como o nome já diz), ocupam a minoria das vagas de emprego e de cargos de liderança / alta visibilidade, principalmente nas áreas STEMM.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+✔️Com o objetivo de mitigar esta problemática, nós, uma equipe composta por homens, mulheres, pessoas não-binarie, negres e branques, participantes da No-Budget Science Hack Week 2021, propomos a criação de um banco de dados de profissionais pertencentes a um ou mais grupos sub-representados, para que jornalistas, outres pesquisadores, contratantes e etc, interessades em diversidade e inclusão, possam encontrar futuras pessoas para compor seu quadro de funcionários, bancas de defesa, colaboradores, etc.
+
+Para começar, gostaríamos de saber se você poderia responder este rápido questionário para que possamos ser o mais assertives possível.
+    🌈 QUESTIONÁRIO: https://forms.gle/zjd4kWfkJ54JeEWu6
+    🌈 NOSSA PROPOSTA: https://drive.google.com/open?id=1_cnUXmu95_U1gxim2T3wBBiesbTFuzm7&authuser=flavia.virginio%40butantan.gov.br&usp=drive_fs 
 
 ### Markdown
 
@@ -23,15 +27,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+Currículo da Mimi <https://kur1sutaru.github.io/diversinect-cv/>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kur1sutaru/diversinect/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Suporte e contatos
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Falar com xxxxx.
