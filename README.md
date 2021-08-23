@@ -5,6 +5,8 @@
 ✔️ Com o objetivo de mitigar esta problemática, nós, uma equipe composta por homens, mulheres, pessoas não-binarie, negres e branques, participantes da No-Budget Science Hack Week 2021, propomos a criação de um banco de dados de profissionais pertencentes a um ou mais grupos sub-representados, para que jornalistas, outres pesquisadores, contratantes e etc, interessades em diversidade e inclusão, possam encontrar futuras pessoas para compor seu quadro de funcionários, bancas de defesa, colaboradores, etc.
 
 ✔️Para começar, gostaríamos de saber se você poderia responder este rápido questionário para que possamos ser o mais assertives possível.
+
+
      🏳️‍🌈 QUESTIONÁRIO: https://forms.gle/zjd4kWfkJ54JeEWu6
      
      
