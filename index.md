@@ -19,7 +19,7 @@ Para começar, gostaríamos de saber se você poderia responder este rápido que
 
 **Currículo da Mimi**
 
-<img src= "./DIVERSINECT-CV.png">
+<img src= "./DIVERSINECT-CV (1).png">
 
 
 
