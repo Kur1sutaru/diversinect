@@ -14,12 +14,13 @@ Para começar, gostaríamos de saber se você poderia responder este rápido que
 
 
 
-```markdown
+
 
 
 **Currículo da Mimi**
-https://kur1sutaru.github.io/diversinect-cv/
-```
+
+<img src= "./DIVERSINECT-CV.png">
+
 
 
 
