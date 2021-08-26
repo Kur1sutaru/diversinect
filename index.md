@@ -19,9 +19,9 @@ Para começar, gostaríamos de saber se você poderia responder este rápido que
     
     
     📧 **Nossos links:**
-    🏳️‍🌈 __Linkedln__: [Grupo DiversiNect](https://www.linkedin.com/groups/9081488/)
-    🏳️‍🌈 __Telegram__: [Telegram Chat DiversiNect](https://t.me/diversinectchat) 
-    🏳️‍🌈 __Instagram__: [InstaDiversiNect](https://www.instagram.com/diversinect/)  
+    🏳️‍🌈 __Linkedln__: https://www.linkedin.com/groups/9081488/
+    🏳️‍🌈 __Telegram__: https://t.me/diversinectchat
+    🏳️‍🌈 __Instagram__:https://www.instagram.com/diversinect/
      
 
 
