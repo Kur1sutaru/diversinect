@@ -1,5 +1,10 @@
 ## DIVERSINECT - 🏳️‍🌈 A diversidade conecta 🏳️‍🌈
 
+<img src= "./logo-diversinect.png">
+
+
+
+
 
 
 ✔️Sabemos que pessoas inseridas em grupos sub-representados (como o nome já diz), ocupam a minoria das vagas de emprego e de cargos de liderança / alta visibilidade, principalmente nas áreas STEMM.
@@ -10,26 +15,12 @@
 Para começar, gostaríamos de saber se você poderia responder este rápido questionário para que possamos ser o mais assertives possível.
 
     🌈 QUESTIONÁRIO: https://forms.gle/zjd4kWfkJ54JeEWu6
-    🌈 NOSSA PROPOSTA: https://drive.google.com/open?id=1_cnUXmu95_U1gxim2T3wBBiesbTFuzm7&authuser=flavia.virginio%40butantan.gov.br&usp=drive_fs 
+    🌈 NOSSA PROPOSTA: https://drive.google.com/open?id=1_cnUXmu95_U1gxim2T3wBBiesbTFuzm7&authuser=flavia.virginio%40butantan.gov.br&usp=drive_fs
+    📧 **Nossos links:**
+    🏳️‍🌈 __Linkedln__: [Grupo DiversiNect](https://www.linkedin.com/groups/9081488/)
+    🏳️‍🌈 __Telegram__: [Telegram Chat DiversiNect](https://t.me/diversinectchat) 
+    🏳️‍🌈 __Instagram__: [InstaDiversiNect](https://www.instagram.com/diversinect/)  
      
- 
-📧 **Nossos links:**
-
-
- 🏳️‍🌈 __Linkedln__: [Grupo DiversiNect](https://www.linkedin.com/groups/9081488/) 
- 
- 
- 🏳️‍🌈 __Telegram__: [Telegram Chat DiversiNect](https://t.me/diversinectchat) 
- 
- 
- 🏳️‍🌈 __Instagram__: [InstaDiversiNect](https://www.instagram.com/diversinect/)  
- 
- 
- 
-
-
-
-
 
 
 
