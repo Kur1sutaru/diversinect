@@ -11,6 +11,22 @@ Para começar, gostaríamos de saber se você poderia responder este rápido que
 
     🌈 QUESTIONÁRIO: https://forms.gle/zjd4kWfkJ54JeEWu6
     🌈 NOSSA PROPOSTA: https://drive.google.com/open?id=1_cnUXmu95_U1gxim2T3wBBiesbTFuzm7&authuser=flavia.virginio%40butantan.gov.br&usp=drive_fs 
+     
+ 
+📧 **Nossos links:**
+
+
+ 🏳️‍🌈 __Linkedln__: [Grupo DiversiNect](https://www.linkedin.com/groups/9081488/) 
+ 
+ 
+ 🏳️‍🌈 __Telegram__: [Telegram Chat DiversiNect](https://t.me/diversinectchat) 
+ 
+ 
+ 🏳️‍🌈 __Instagram__: [InstaDiversiNect](https://www.instagram.com/diversinect/)  
+ 
+ 
+ 
+
 
 
 
@@ -27,4 +43,4 @@ Para começar, gostaríamos de saber se você poderia responder este rápido que
 
 ### Suporte e contatos
 
-Falar com xxxxx.
+Falar com Adriana Cabanelas, Bruno Soares, Cristal Villalba, Flavia Virginio, Marília Reginato, Renata Porto e Vanessa Bicalho - através do [Telegram Chat DiversiNect](https://t.me/diversinectchat) .
