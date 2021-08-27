@@ -4,7 +4,7 @@
 
 
 
-##### 🦄 Clique no botão a seguir para descobrir [Quem somos nós](./quem-somos.md) 🦄
+# 🦄 Clique no botão a seguir para descobrir [Quem somos nós](./quem-somos.md) 🦄
 
 
 ✔️Sabemos que pessoas inseridas em grupos sub-representados (como o nome já diz), ocupam a minoria das vagas de emprego e de cargos de liderança / alta visibilidade, principalmente nas áreas STEMM.
