@@ -38,4 +38,4 @@ Para começar, gostaríamos de saber se você poderia responder este rápido que
 
 ### Suporte e contatos
 
-Falar com Adriana Cabanelas, Bruno Soares, Cristal Villalba, Flavia Virginio, Marília Reginato, Renata Porto e Vanessa Bicalho - através do [Telegram Chat DiversiNect](https://t.me/diversinectchat) . Para contatos por email, por favor encaminhar para [Nosso Gmail](diversinect@gmail.com)
+Falar com Adriana Cabanelas, Bruno Soares, Cristal Villalba, Flavia Virginio, Marília Reginato, Renata Porto e Vanessa Bicalho - através do [Telegram Chat DiversiNect](https://t.me/diversinectchat) . Para contatos por email, por favor encaminhar para Nosso Gmail  📧 diversinect@gmail.com
