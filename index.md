@@ -3,6 +3,9 @@
 <img src= "./logo-diversinect.png">
 
 
+☑️ # NOSSO SITE ESTÁ TEMPORARIAMENTE HOSPEDADO NO ENDEREÇO A SEGUIR https://sites.google.com/hcpa.edu.br/diversinect/p%C3%A1gina-inicial
+
+
 
 # 🦄 Clique no botão a seguir para descobrir [Quem somos nós](./quem-somos.md) 🦄
 
